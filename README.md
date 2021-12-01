@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Camillaatek
+- 👋 Hi, I’m Camilla
 - 👀 I’m interested in frontend development and design
 - 🌱 I’m currently learning React.js and three.js
 - 💞️ I’m looking to collaborate on interactive websites with focus on good design
