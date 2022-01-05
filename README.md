@@ -2,7 +2,7 @@
 
 ![f0f0d932d6e39c7af5aa305cbd8da735](https://user-images.githubusercontent.com/69843303/148256993-1f204ce3-71df-4d9c-ac38-04b44826864e.gif)
 
-<h3>About me:</h3>
+<h2>About me:</h2>
 
 - 👩🏼‍💻 Hi, I’m Camilla, currently at my last year of frontend development at Noroff
 - 👀 I’m interested in making 3D websites with interaction
