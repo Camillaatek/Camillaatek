@@ -1,6 +1,6 @@
 <h1>Hi there!👋</h1>
 
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966](https://user-images.githubusercontent.com/69843303/148216441-f6d2ca93-34ba-4082-a4ef-4c299a802c81.gif)
+![f0f0d932d6e39c7af5aa305cbd8da735](https://user-images.githubusercontent.com/69843303/148256993-1f204ce3-71df-4d9c-ac38-04b44826864e.gif)
 
 <h3>About me:</h3>
 
@@ -14,3 +14,4 @@
 Camillaatek/Camillaatek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966](https://user-images.githubusercontent.com/69843303/148216441-f6d2ca93-34ba-4082-a4ef-4c299a802c81.gif)
