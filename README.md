@@ -4,7 +4,7 @@
 
 <h2>About me:</h2>
 
-- 👩🏼‍💻 Hi, I’m Camilla, currently finished my last year of frontend development at Noroff
+- 👩🏼‍💻 Hi, I’m Camilla, currently graduated my last year of frontend development at Noroff
 - 👀 I’m interested in making 3D websites with interaction
 - 👩🏼‍🎓 I’m currently learning React.js and Three.js
 - 🎨 Right now I'm working on my <b>Portfolio</b>
