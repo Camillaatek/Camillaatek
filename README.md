@@ -6,7 +6,7 @@
 
 - 👩🏼‍💻 Hi, I’m Camilla, I recently graduated my last year of frontend development at Noroff
 - 👀 I’m interested in making 3D websites with interaction
-- 👩🏼‍🎓 I’m currently learning React.js and Three.js
+- 👩🏼‍🎓 I’m currently learning Three.js
 - 🎨 Right now I'm working on my <b>Portfolio</b>
 - 🔥 Fun fact: 01101001 00100000 01101100 01101001 01101011 01100101 00100000 01100011 01101000 01100101 01110011 01110011
 
